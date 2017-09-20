@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.421 seconds
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jessi\Documents\Unity\Caravan\Caravan_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.589442 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.224537 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 2.318935 ms (FindLiveObjects: 0.071253 ms CreateObjectMapping: 0.063573 ms MarkObjects: 2.074028 ms  DeleteObjects: 0.095146 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.170774 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 868.
+Total: 2.631682 ms (FindLiveObjects: 0.085760 ms CreateObjectMapping: 0.956587 ms MarkObjects: 1.560321 ms  DeleteObjects: 0.028586 ms)
+
+Card: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Ended
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.596588 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 646.
+Total: 2.152535 ms (FindLiveObjects: 0.189866 ms CreateObjectMapping: 0.096426 ms MarkObjects: 1.822721 ms  DeleteObjects: 0.038400 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 26e4 -> priority: 1 
