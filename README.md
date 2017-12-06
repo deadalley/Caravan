@@ -4,4 +4,4 @@ DISCLAIMER: I do not own the rights to Fallout: New Vegas© or any of its intell
 
 # Description
 
-This is a simple Unity game based on the card game Caravan found in Fallout:New Vegas©.
+This is a simple Unity game based on the card game Caravan found in Fallout: New Vegas©.
